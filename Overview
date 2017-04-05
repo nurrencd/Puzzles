@@ -1,0 +1,5 @@
+This repository is a collection of my implementation of puzzle games
+
+1) Carpentry in Puzzle Pirates
+-- Fill holes with 12 possible pentominoes, allowing rotation / flipping
+-- emphasis on speed and preccision
